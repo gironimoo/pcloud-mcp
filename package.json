@@ -1,0 +1,14 @@
+{
+  "name": "pcloud-mcp",
+  "version": "1.0.0",
+  "description": "MCP gateway for pCloud",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
